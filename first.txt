@@ -1,2 +1,6 @@
 first
+<<<<<<< HEAD
 third
+=======
+second
+>>>>>>> 343fc295d0f70f4ca5c96b1870d32d393ef802fd
